@@ -16,3 +16,9 @@ Strange Loop 2014 Video from Evan Czaplicki - goes over FRP, various types, some
 
 [Reactive UI -its pretty neat] (https://www.youtube.com/watch?v=HPyKHxy7X0w&t=18)
 
+
+#Scalaz
+
+[Task - the missing docs](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/)
+
+
