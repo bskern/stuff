@@ -12,9 +12,11 @@ Strange Loop 2014 Video from Evan Czaplicki - goes over FRP, various types, some
 
 Went really well after Evan's video talk/ both at Strange Loop 2014. 
 
-##want to watch FRP
-
 [Reactive UI -its pretty neat] (https://www.youtube.com/watch?v=HPyKHxy7X0w&t=18)
+
+Ended up leaving video early think after watching first two videos I got what I wanted
+
+
 
 
 #Scalaz
