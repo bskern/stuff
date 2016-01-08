@@ -26,4 +26,10 @@ Ended up leaving video early think after watching first two videos I got what I 
 
 [Task - the missing docs](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/)
 
+#ELM
+
+[Tutorial on simple game](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/)
+
+Not yet watched
+
 
