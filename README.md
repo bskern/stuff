@@ -16,6 +16,9 @@ Went really well after Evan's video talk/ both at Strange Loop 2014.
 
 Ended up leaving video early think after watching first two videos I got what I wanted
 
+#Swift
+
+[FRP in Swift] (https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift)
 
 
 
