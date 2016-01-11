@@ -19,6 +19,7 @@ Ended up leaving video early think after watching first two videos I got what I 
 #Swift
 
 [FRP in Swift] (https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift)
+
 [Protocol Oriented Programming in Swift] (https://developer.apple.com/videos/play/wwdc2015-408/)
 
 
