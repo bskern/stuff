@@ -31,6 +31,10 @@ Ended up leaving video early think after watching first two videos I got what I 
 
 [Tutorial on simple game](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/)
 
-Not yet watched
+Not yet watched]
+
+#SBT
+
+[SBT nice overview / intro] (https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md)
 
 
