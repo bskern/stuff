@@ -20,7 +20,13 @@ Ended up leaving video early think after watching first two videos I got what I 
 
 [FRP in Swift] (https://speakerdeck.com/realm/functional-reactive-programming-with-rxswift)
 
-[Protocol Oriented Programming in Swift] (https://developer.apple.com/videos/play/wwdc2015-408/)
+[Protocol Oriented Programming in Swift -- WWDC 2015] (https://developer.apple.com/videos/play/wwdc2015-408/)
+
+Enjoyed this video worth watching
+
+[Better Apps with Value Types in Swift] (https://developer.apple.com/videos/play/wwdc2015-414/)
+
+Not Yet Watched
 
 
 #Scalaz
