@@ -37,6 +37,8 @@ Not Yet Watched
 
 [Shapeless Primer](https://rnduja.github.io/2016/01/19/a_shapeless_primer/)
 
+[Scala Dependent Types](http://rnduja.github.io/2015/10/07/scala-dependent-types/)
+
 really enjoyed this article very nice intro/longer but full of information
 
 #ELM
