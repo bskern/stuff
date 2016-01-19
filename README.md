@@ -31,7 +31,13 @@ Not Yet Watched
 
 #Scalaz
 
-[Task - the missing docs](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/)
+[Task - the missing docs](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/) 
+
+#Shapeless
+
+[Shapeless Primer](https://rnduja.github.io/2016/01/19/a_shapeless_primer/)
+
+really enjoyed this article very nice intro/longer but full of information
 
 #ELM
 
