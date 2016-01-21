@@ -59,4 +59,6 @@ Not yet watched]
 
 [focusing talks](https://www.facebook.com/note.php?note_id=536820369684165)
 
+#Scala General
+[Phantom Types](http://danielwestheide.com/blog/2015/06/28/put-your-writes-where-your-master-is-compile-time-restriction-of-slick-effect-types.html)
 
