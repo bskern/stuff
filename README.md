@@ -55,7 +55,7 @@ Not yet watched]
 [Blast Your App with Gatling ] (https://vimeo.com/70102928)
 
 #Speaking
-[how to give keynote](https://medium.com/@chadfowler/how-to-give-a-keynote-9cc61abb6ec8#.gifwzfc5n
+[how to give keynote](https://medium.com/@chadfowler/how-to-give-a-keynote-9cc61abb6ec8#.gifwzfc5n)
 
 [focusing talks](https://www.facebook.com/note.php?note_id=536820369684165)
 
