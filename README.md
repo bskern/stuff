@@ -64,3 +64,5 @@ Not yet watched]
 
 [cake](http://www.andrewrollins.com/2014/08/07/scala-cake-pattern-self-type-annotations-vs-inheritance/)
 
+[Finch - your API as monad](https://skillsmatter.com/skillscasts/6876-finch-your-rest-api-as-a-monad)
+
