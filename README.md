@@ -57,6 +57,8 @@ Not yet watched]
 #Speaking
 [how to give keynote](https://medium.com/@chadfowler/how-to-give-a-keynote-9cc61abb6ec8#.gifwzfc5n)
 
+[5 tips on abstract](http://tech.noredink.com/post/138031621973/five-quick-tips-for-submitting-conference-talks)
+
 [focusing talks](https://www.facebook.com/note.php?note_id=536820369684165)
 
 #Scala General
