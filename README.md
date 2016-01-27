@@ -68,3 +68,5 @@ Not yet watched]
 
 [Finch - your API as monad](https://skillsmatter.com/skillscasts/6876-finch-your-rest-api-as-a-monad)
 
+[Extreme Cleverness: Functional Data Structures in Scala](https://vimeo.com/28760673?ref=tw-share)
+
