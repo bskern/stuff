@@ -70,3 +70,5 @@ Not yet watched]
 
 [Extreme Cleverness: Functional Data Structures in Scala](https://vimeo.com/28760673?ref=tw-share)
 
+[Functional Mocking](https://vimeo.com/125038982)
+
