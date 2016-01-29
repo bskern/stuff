@@ -68,6 +68,8 @@ Not yet watched]
 
 [Finch - your API as monad](https://skillsmatter.com/skillscasts/6876-finch-your-rest-api-as-a-monad)
 
+^^really nice intro video and goes over example in depth that is in the Finch repo for Todos
+
 [Extreme Cleverness: Functional Data Structures in Scala](https://vimeo.com/28760673?ref=tw-share)
 
 [Functional Mocking](https://vimeo.com/125038982)
