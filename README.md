@@ -74,3 +74,5 @@ Not yet watched]
 
 [Functional Mocking](https://vimeo.com/125038982)
 
+[Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
+
