@@ -26,7 +26,7 @@ Enjoyed this video worth watching
 
 [Better Apps with Value Types in Swift] (https://developer.apple.com/videos/play/wwdc2015-414/)
 
-Not Yet Watched
+[Elmification of Swift] (https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.acwv2rgup)
 
 
 #Scalaz
