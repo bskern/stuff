@@ -74,5 +74,7 @@ Not yet watched]
 
 [Functional Mocking](https://vimeo.com/125038982)
 
+[Generalized Type Constraints](http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html?m=1)
+
 [Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
 
