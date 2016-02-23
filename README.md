@@ -80,3 +80,7 @@ Not yet watched]
 
 [Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
 
+#ScalaJs
+
+[Isomorphic scalajs](https://vimeo.com/154932681)
+
