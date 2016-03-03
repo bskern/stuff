@@ -37,6 +37,8 @@ Enjoyed this video worth watching
 
 [Shapeless Primer](https://rnduja.github.io/2016/01/19/a_shapeless_primer/)
 
+[Intro to shapeless](http://jto.github.io/articles/getting-started-with-shapeless/)
+
 really enjoyed this article very nice intro/longer but full of information
 
 [Scala Dependent Types](http://rnduja.github.io/2015/10/07/scala-dependent-types/)
