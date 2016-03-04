@@ -82,6 +82,10 @@ Not yet watched]
 
 [Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
 
+#AkkaHTTP
+
+[example in akka http](http://labs.unacast.com/2016/03/03/building-microservices-with-akka-http/
+
 #ScalaJs
 
 [Isomorphic scalajs](https://vimeo.com/154932681)
