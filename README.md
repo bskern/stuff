@@ -85,6 +85,7 @@ Not yet watched]
 ## Scala variance
 
 [one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
+
 [variance in java & scala](https://medium.com/@sinisalouc/variance-in-java-and-scala-63af925d21dc#.wxm4xxpuz)
 
 #AkkaHTTP
