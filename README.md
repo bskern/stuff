@@ -82,6 +82,11 @@ Not yet watched]
 
 [Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
 
+## Scala variance
+
+[one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
+[variance in java & scala](https://medium.com/@sinisalouc/variance-in-java-and-scala-63af925d21dc#.wxm4xxpuz)
+
 #AkkaHTTP
 
 [example in akka http](http://labs.unacast.com/2016/03/03/building-microservices-with-akka-http/
