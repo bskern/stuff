@@ -88,6 +88,8 @@ Not yet watched]
 
 [variance in java & scala](https://medium.com/@sinisalouc/variance-in-java-and-scala-63af925d21dc#.wxm4xxpuz)
 
+[atlassian blog on variance](http://blogs.atlassian.com/2013/01/covariance-and-contravariance-in-scala/)
+
 #AkkaHTTP
 
 [example in akka http](http://labs.unacast.com/2016/03/03/building-microservices-with-akka-http/
