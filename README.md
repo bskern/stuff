@@ -98,6 +98,8 @@ Not yet watched]
 
 [Isomorphic scalajs](https://vimeo.com/154932681)
 
+[building API in scalajs](http://pavkin.ru/how-to-make-an-idiomatic-javascript-library-with-scala-js/)
+
 #Elm
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
