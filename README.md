@@ -82,6 +82,8 @@ Not yet watched]
 
 [Typeclasses](https://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
 
+[Types](http://ktoso.github.io/scala-types-of-types/)
+
 ## Scala variance
 
 [one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
