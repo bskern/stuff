@@ -84,6 +84,8 @@ Not yet watched]
 
 [Types](http://ktoso.github.io/scala-types-of-types/)
 
+[Information Hiding](http://typelevel.org/blog/2016/03/13/information-hiding.html)
+
 ## Scala variance
 
 [one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
