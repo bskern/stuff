@@ -84,6 +84,8 @@ Not yet watched]
 
 [Types](http://ktoso.github.io/scala-types-of-types/)
 
+[Tagged Types] (https://coderwall.com/p/l-plmq/adding-semantic-to-base-types-parameters-in-scala)
+
 [Information Hiding](http://typelevel.org/blog/2016/03/13/information-hiding.html)
 
 ## Scala variance
