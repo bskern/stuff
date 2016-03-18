@@ -106,6 +106,8 @@ Not yet watched]
 
 [building API in scalajs](http://pavkin.ru/how-to-make-an-idiomatic-javascript-library-with-scala-js/)
 
+[overview] (https://www.youtube.com/watch?v=NPWDKEQLjpI&feature=youtu.be)
+
 #Elm
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
