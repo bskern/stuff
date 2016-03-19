@@ -112,3 +112,7 @@ Not yet watched]
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
 
+#CQRS
+
+[CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+
