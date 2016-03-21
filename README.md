@@ -114,6 +114,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
 
+[Let's be mainstream - user focused design in elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+
 #CQRS
 
 [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
