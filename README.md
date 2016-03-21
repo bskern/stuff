@@ -47,7 +47,9 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Tutorial on simple game](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/)
 
-Not yet watched]
+[ElmCasts] (http://www.elmcast.io/elmcast-live-elm-native-ui/)
+
+
 
 #SBT
 
