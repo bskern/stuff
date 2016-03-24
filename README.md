@@ -120,3 +120,7 @@ really enjoyed this article very nice intro/longer but full of information
 
 [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 
+#Uncategorized
+
+[Scope continuations/FP v Imperative](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
+
