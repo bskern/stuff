@@ -110,6 +110,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [overview] (https://www.youtube.com/watch?v=NPWDKEQLjpI&feature=youtu.be)
 
+[react scalajs] (http://scala-bility.blogspot.fr/2015/05/scalajs-and-react-building-application.html)
+
 #Elm
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
