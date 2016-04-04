@@ -126,3 +126,5 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Scope continuations/FP v Imperative](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
 
+[Scala use of HKT](http://stackoverflow.com/questions/4765532/what-does-abstract-over-mean/4765918#4765918)
+
