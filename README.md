@@ -128,3 +128,6 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Scala use of HKT](http://stackoverflow.com/questions/4765532/what-does-abstract-over-mean/4765918#4765918)
 
+#swift
+[functional json parsing] (http://bhargavg.com/)
+
