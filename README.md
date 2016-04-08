@@ -30,6 +30,8 @@ Enjoyed this video worth watching
 
 [Understanding Monads in Swift](https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/)
 
+[ibeacons] (http://www.alphansotech.com/blogs/ios-ibeacon-app-tutorial-swift-2/)
+
 
 #Scalaz
 
