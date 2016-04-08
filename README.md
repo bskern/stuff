@@ -33,6 +33,8 @@ Enjoyed this video worth watching
 
 [Task - the missing docs](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/) 
 
+[Reader/Writer/State] (http://2016.phillyemergingtech.com/2012/system/presentations/di-without-the-gymnastics.pdf)
+
 #Shapeless
 
 [Shapeless Primer](https://rnduja.github.io/2016/01/19/a_shapeless_primer/)
