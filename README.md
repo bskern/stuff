@@ -28,6 +28,8 @@ Enjoyed this video worth watching
 
 [Elmification of Swift] (https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.acwv2rgup)
 
+[Understanding Monads in Swift](https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/)
+
 
 #Scalaz
 
