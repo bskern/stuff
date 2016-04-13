@@ -118,6 +118,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [react scalajs] (http://scala-bility.blogspot.fr/2015/05/scalajs-and-react-building-application.html)
 
+[react play scalajs] (https://github.com/ochrons/scalajs-spa-tutorial)
+
 #Elm
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
