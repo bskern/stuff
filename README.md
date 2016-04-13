@@ -96,6 +96,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Information Hiding](http://typelevel.org/blog/2016/03/13/information-hiding.html)
 
+[typesafe domain classes](http://www.wlangiewicz.com/2016/03/14/typesafe-domain-objects-scala/)
+
 ## Scala variance
 
 [one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
