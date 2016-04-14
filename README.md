@@ -141,3 +141,7 @@ really enjoyed this article very nice intro/longer but full of information
 #swift
 [functional json parsing] (http://bhargavg.com/)
 
+#kotlin
+
+[kotlin for scala devs] (http://www.51zero.com/blog/2016/4/14/kotlin-for-scala-developers)
+
