@@ -39,6 +39,8 @@ Enjoyed this video worth watching
 
 [Reader/Writer/State] (http://2016.phillyemergingtech.com/2012/system/presentations/di-without-the-gymnastics.pdf)
 
+[useful basics](http://www.smartjava.org/content/scalaz-features-everyday-usage-part-1-typeclasses-and-scala-extensions)
+
 #Shapeless
 
 [Shapeless Primer](https://rnduja.github.io/2016/01/19/a_shapeless_primer/)
