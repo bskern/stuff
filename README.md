@@ -126,6 +126,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [react play scalajs] (https://github.com/ochrons/scalajs-spa-tutorial)
 
+[using npm modules /browserfy in scalajs] (https://www.toptal.com/scala/using-scala-js-with-npm-and-browserify)
+
 #Elm
 
 [Rethinking all practices](https://www.youtube.com/watch?v=txxKx_I39a8)
