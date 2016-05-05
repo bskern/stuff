@@ -151,3 +151,5 @@ really enjoyed this article very nice intro/longer but full of information
 
 [kotlin for scala devs] (http://www.51zero.com/blog/2016/4/14/kotlin-for-scala-developers)
 
+#big-o
+[nice explanations] (https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
