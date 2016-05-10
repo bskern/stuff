@@ -32,6 +32,8 @@ Enjoyed this video worth watching
 
 [ibeacons] (http://www.alphansotech.com/blogs/ios-ibeacon-app-tutorial-swift-2/)
 
+[Alamofire] (https://www.raywenderlich.com/121540/alamofire-tutorial-getting-started)
+
 [testing in swift] (https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)
 
 
