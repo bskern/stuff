@@ -36,6 +36,8 @@ Enjoyed this video worth watching
 
 [testing in swift] (https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)
 
+[Use cocoapods with swift] (https://www.raywenderlich.com/97014/use-cocoapods-with-swift
+
 
 #Scalaz
 
