@@ -92,6 +92,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Functional Mocking](https://vimeo.com/125038982)
 
+[Free Monad and its costs] (http://engineering.sharethrough.com/blog/2016/07/28/monads-part-2-the-free-monad/)
+
 [Categories for Programmers](http://www.infoq.com/presentations/categories-functional-programming)
 
 [Generalized Type Constraints](http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html?m=1)
