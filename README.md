@@ -140,6 +140,7 @@ really enjoyed this article very nice intro/longer but full of information
 
 [Let's be mainstream - user focused design in elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
+[parsing large JSON] (http://www.troikatech.com/blog/2015/08/17/decoding-larger-json-objects-in-elm)
 #CQRS
 
 [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
