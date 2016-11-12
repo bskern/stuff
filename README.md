@@ -116,6 +116,10 @@ really enjoyed this article very nice intro/longer but full of information
 
 [atlassian blog on variance](http://blogs.atlassian.com/2013/01/covariance-and-contravariance-in-scala/)
 
+## Scala Polymorphism
+
+[overview] (https://toidiu.github.io/code/polymorphism-in-scala/)
+
 #AkkaHTTP
 
 [example in akka http](http://labs.unacast.com/2016/03/03/building-microservices-with-akka-http/
