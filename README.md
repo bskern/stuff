@@ -108,6 +108,8 @@ really enjoyed this article very nice intro/longer but full of information
 
 [typesafe domain classes](http://www.wlangiewicz.com/2016/03/14/typesafe-domain-objects-scala/)
 
+[review functors/applicatives](https://hackernoon.com/functors-and-applicatives-b9af535b1440#.vitq1kgnt)
+
 ## Scala variance
 
 [one nice article](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
