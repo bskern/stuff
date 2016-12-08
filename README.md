@@ -166,3 +166,6 @@ really enjoyed this article very nice intro/longer but full of information
 
 #big-o
 [nice explanations] (https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+
+#xcode
+[keyboard shortcuts for xcode8](https://medium.com/ios-geek-community/bobs-favorite-xcode-8-shortcuts-part-1-3-36381e07284d#.1lisxtp01)
